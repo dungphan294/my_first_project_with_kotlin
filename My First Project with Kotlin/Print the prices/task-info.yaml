@@ -1,0 +1,14 @@
+type: remote_edu
+files:
+  - name: src/first_project/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/MyFirstProjectTest.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/501/stages/2941/implement#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 24 Feb 2026 15:40:10 UTC"
+record: 1
